@@ -1,1 +1,1 @@
-# Readme file in the root repo of the project
+This repo is for the ALX shell basic projects
